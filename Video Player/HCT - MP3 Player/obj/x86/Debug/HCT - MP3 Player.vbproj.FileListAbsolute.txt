@@ -1,0 +1,64 @@
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.exe
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.pdb
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.xml
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Form1.resources
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Resources.resources
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.exe
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.xml
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.pdb
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\KAIZERFAMILY\AppData\Local\Temporary Projects\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.vbproj.ResolveComReference.cache
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.vbproj.ResolveComReference.cache
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.exe
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.xml
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.pdb
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.exe
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.pdb
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.xml
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Form1.resources
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Resources.resources
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KAIZERFAMILY\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.vbproj.ResolveComReference.cache
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.exe
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.xml
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.pdb
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.exe
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.pdb
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.xml
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Form1.resources
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Resources.resources
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kaizer\Desktop\HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.vbproj.ResolveComReference.cache
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.exe
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.xml
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT - MP3 Player.pdb
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.exe
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.pdb
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\bin\Debug\HCT - MP3 Player.xml
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\bin\Debug\Interop.WMPLib.dll
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Form1.resources
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\HCT___MP3_Player.Resources.resources
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\6. Synra Lab 2012\18. HCT - MP3 Player\HCT - MP3 Player\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
